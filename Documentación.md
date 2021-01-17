@@ -1,0 +1,12 @@
+# Sitio web para A.J.Bululú Smaller Logo: ![Logo](img/logo.jfif "Title")
+## Preprojecto
+### Ideas generales
+La idea principal de la página web es hacer un portal donde los usuarios de la asosiación puedan acceder a:
+* Tienda online
+    1. Con tabla de descripción del producto
+    2. Reseñas y comentarios de los usuarios
+* Registro e inicio de sesión de socios de la asociación
+* Blog de la asosiación
+* Redes sociales de la asociación
+* Donaciones por teaming
+* Toda la información necesaria relativa a la asociación
