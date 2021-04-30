@@ -1,4 +1,4 @@
-* Registro en castellano
+* ~~Registro en castellano~~
 * Registro de usuario, gestionar socio/nosocio
 * Mejorar fotos tienda
 * Poner twitter
